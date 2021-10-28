@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: #15056d;
+  background-color: rgb(173, 177, 171);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 98vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
